@@ -6,11 +6,11 @@ Solidity Labs is the leading boutique smart contract development agency.
 
 We build and review smart contract systems on Ethereum and other blockchains. We are a team of experienced engineers and researchers with a track record of delivering secure and reliable systems.
 
-We have successfully built eight greenfield smart contract protocols, with six already live and securing over one billion in Total Value Locked.
+We have successfully built eight greenfield smart contract protocols, with six already live, securing over one billion in Total Value Locked.
 
 ## Open Source
 
-We are committed to contributing to the security of the community and the ecosystem. See the [forge proposal simulator](https://github.com/solidity-labs-io/forge-proposal-simulator) tool for help with governance safety.
+We are committed to contributing to the security of the community and the ecosystem. See the [forge proposal simulator](https://github.com/solidity-labs-io/forge-proposal-simulator) tool for help with governance safety. See the [security checklist](https://github.com/solidity-labs-io/code-review-checklist) and [security](https://medium.com/@elliotfriedman3/a-security-stack-4aedd8617e8b) [stack](https://medium.com/@elliotfriedman3/a-security-stack-part-2-aaacbbf77346) for a list of items to consider when building a smart contract system.
 
 ## Service Offerings
 
