@@ -42,4 +42,4 @@ With our experienced engineering team, we can help you build a more secure smart
 
 The hardest part about smart contracts is verification. We can help your project with our testing services.
 
-Each system is different and requires different tools and methodology. We have expertise in Formal Verification, Fuzz, Unit, Integration and Invariant Testing to increase your projects' security.
+Each system is different and requires different tools and methodology. We have expertise in Formal Verification, Fuzz, Unit, Integration and Invariant Testing to increase your project's security.
