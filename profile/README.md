@@ -20,7 +20,7 @@ Governance can be tough, especially for on-chain organizations whose proposals m
 
 There have been many examples of the call data being incorrect, metamorphic malicious contracts, and damage or losses caused by the unexpected.
 
-Our expert governance proposal review helps to make this category of issues are a thing of the past for your organization.
+Our expert governance proposal review helps to make this category of issues a thing of the past for your organization.
 
 ### Security Reviews
 
@@ -30,16 +30,16 @@ Every year, organizations spend enormous amounts of resources to keep their smar
 
 Our security reviews help to make sure your system isn't next on the rekt leaderboard.
 
-We provide reviews throughout the SDLC to create a safe system from the architecture to the implementation, to the fixes after reviews.
+We provide reviews throughout the SDLC to create a safe system from architecture to implementation, to the fixes after reviews.
 
 ### Architecture Reviews
 
-Getting the architecture of a smart contract protocol right decreases the attack surface and minimizes the chances of security incidents.
+Getting the architecture of a smart contract protocol right decreases the attack surface, and minimizes the chances of security incidents.
 
-With our experienced engineering team, we can help you with building a secure and efficient smart contract architecture.
+With our experienced engineering team, we can help you build a more secure smart contract system.
 
 ### Testing
 
 The hardest part about smart contracts is verification. We can help your project with our testing services.
 
-Each project is different and we have expertise in Formal Verification, Fuzz Testing and many other automated tools to increase the security of your project.
+Each system is different and requires different tools and methodology. We have expertise in Formal Verification, Fuzz, Unit, Integration and Invariant Testing to increase your projects' security.
